@@ -1,0 +1,7 @@
+import canonicalLaneMathlib.AdmissibleClass
+
+namespace HautevilleHouse
+namespace DirectionalDataSpatialStatisticsCanonicalLaneLean
+
+end DirectionalDataSpatialStatisticsCanonicalLaneLean
+end HautevilleHouse
